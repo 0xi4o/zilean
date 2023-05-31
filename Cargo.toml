@@ -1,5 +1,12 @@
 [package]
 name = "zilean"
+description = "Zilean is a cross-platform terminal application for working with the Pomodoro Technique"
+homepage = "https://github.com/i4o-dev/zilean"
+repository = "https://github.com/i4o-dev/zilean"
+readme = "README.md"
+keywords = ["pomodoro", "productivity"]
+categories = ["command-line-utilities"]
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,6 +14,7 @@ edition = "2021"
 
 [dependencies]
 chrono = "0.4.25"
+clap = "4.3.0"
 crossterm = "0.26.1"
 indicatif = "0.17.4"
 inquire = "0.6.2"
