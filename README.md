@@ -9,13 +9,7 @@ TODO: Insert gif
 
 ## Installation
 
-Ubuntu
-
-```bash
-sudo apt install zilean
-```
-
-Install Zilean with cargo
+Cargo:
 
 ```bash
   cargo install zilean
