@@ -12,7 +12,7 @@ TODO: Insert gif
 Cargo:
 
 ```bash
-  cargo install zilean
+cargo install zilean
 ```
     
 ## Usage
